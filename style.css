@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 1px 0 black;
+}
+
+div.blue {
+    background-color: blue;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+div.yellow {
+    background-color: yellow;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+div.green {
+    background-color: green;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+
+div.red {
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    margin: 0;
+}
